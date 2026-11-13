@@ -8,3 +8,5 @@ I am learning Git and GitHub.
 - GitHub remote connection
 - Git push
 - Git pull
+
+- Learning remote updates through git pull
