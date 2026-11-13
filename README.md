@@ -10,3 +10,4 @@ I am learning Git and GitHub.
 - Git pull
 
 - Learning remote updates through git pull
+- Learning Git Fetch
